@@ -1,1 +1,4 @@
 rsyncexcludefiles.txt
+.git
+parent
+subtree
